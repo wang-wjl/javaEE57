@@ -25,6 +25,7 @@ public class CustomerTest {
      *   根据传递的对象释放存在主键
      *   没有id主键属性保存
      *   存在id主键属性，根据id查询数据，更新数据
+     *   测试Git
      *   */
     @Test
     public void testSave(){
